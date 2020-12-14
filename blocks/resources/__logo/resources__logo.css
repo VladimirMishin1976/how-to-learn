@@ -1,0 +1,7 @@
+.resources__logo {
+  flex-basis: 270px;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
