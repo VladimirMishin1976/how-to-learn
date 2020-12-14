@@ -1,12 +1,10 @@
 .logo {
   z-index: 1;
   width: 183px;
-  height: 32px;
   background-size: cover;
   transition: .2s ease-in-out;
 }
 
 .logo:hover {
-  opacity: .8;
-  transform: scale(1.05);
+  opacity: .7;
 }

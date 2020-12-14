@@ -5,11 +5,10 @@
   font-size: 30px;
   font-weight: normal;
   text-decoration: none;
-  transition: 0.3s linear;
+  transition: 0.15s linear;
   align-self: flex-start;
 }
 
 .khan__buy-link:hover {
   opacity: .7;
-  transform: scale(1.05);
 }
