@@ -10,6 +10,6 @@
 - Файловая структура БЭМ Nested.
 
 ## Ссылка
- - https://vercel.com/vladimirmishin1976/how-to-learn
- 
+ - https://how-to-learn-rho.vercel.app/
+
 
