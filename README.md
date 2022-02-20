@@ -9,3 +9,7 @@
 - Наименование по БЭМ.
 - Файловая структура БЭМ Nested.
 
+## Ссылка
+ - https://vercel.com/vladimirmishin1976/how-to-learn
+ 
+
